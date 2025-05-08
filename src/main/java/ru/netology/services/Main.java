@@ -17,6 +17,8 @@ public class Main {
         int threshold2 = 150000;
         int restMonths2 = service.calculateRestMonths(income2, expenses2, threshold2);
         System.out.println("Количество месяцев отдыха (пример 2): " + restMonths2); // Ожидается 2
+
+
     }
 }
 
